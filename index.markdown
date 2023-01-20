@@ -4,17 +4,24 @@
 
 layout: home
 ---
-Here is a selection of my projects on GitHub:  
+
+Research Papers:  
+*   [Improving the Robustness of the Dominant Mode Rejection Beamformer With Median Filtering](https://ieeexplore.ieee.org/document/9950235)
+
+Public Projects on GitHub:  
 *   [Image restoration using Bayesian super-resolution](https://danchieta.github.io/projetoGurupi/)
 *   [Speaker verification system using cepstral analysis and TensorFlow](https://danchieta.github.io/ece591speech_project)
 *   [Simulation of the propagation of electromagnetic waves in a indoor environment](https://danchieta.github.io/ECE551proj/)
 
-
 # Resume
 ## SUMMARY
-Graduate student working towards a master&#39;s degree in Electrical Engineering. Five years of experience in statistical signal processing, sensor arrays, and digital image processing. Currently seeking to start Optional Practical Training in the beginning of 2021.
+Graduate student working towards a Doctoral degree in Electrical Engineering. Seven years of experience in statistical signal processing, sensor arrays, and digital image processing.
 
 ## EDUCATION
+### **Doctor of Phylosophy in Electrical Engineering**
+**University of Massachusetts Dartmouth | Dartmouth, MA | 2025**  
+Advisor: John R. Buck
+
 ### **Master of Science in Electrical Engineering**
 **University of Massachusetts Dartmouth | Dartmouth, MA | 2021 | GPA: 3.75**  
 Thesis: Improving the Robustness of the Dominant Mode Rejection Beamformer with Median Filtering  
@@ -41,6 +48,9 @@ Digital Signal Processing, Statistical Analysis, Probability Theory, Sensor Arra
 Programming: Matlab, Python, C, C#, C++, Java | Tools: Linux, Windows, Git.
 
 ## RESEARCH
+### Robust Spectral Estimation With a Linear Combination of Order Statistics
+• Presented at the Fall meeting of the Acoustical Society of America in Nashville, TN, 2022.
+
 ### Improving the Dominant Mode Rejection Beamformer with Median Filtering
 • Presented at the Fall meeting of the Acoustical Society of America in San Diego, California and the IEEE Underwater Acoustics Signal Processing Workshop in East Greenwich, Rhode Island 2019.
 
