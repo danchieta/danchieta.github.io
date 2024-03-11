@@ -1,24 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+#title: About
+#permalink: /about/
 ---
 
-Research Papers:  
+Graduate student working towards a Doctoral degree in Electrical Engineering. Seven years of experience in statistical signal processing, sensor arrays, and digital image processing.
+
+# Research Papers:  
 *   [Improving the Robustness of the Dominant Mode Rejection Beamformer With Median Filtering](https://ieeexplore.ieee.org/document/9950235)
 
-Public Projects on GitHub:  
+# Public Projects on GitHub:  
 *   [Image restoration using Bayesian super-resolution](https://danchieta.github.io/projetoGurupi/)
 *   [Speaker verification system using cepstral analysis and TensorFlow](https://danchieta.github.io/ece591speech_project)
 *   [Simulation of the propagation of electromagnetic waves in a indoor environment](https://danchieta.github.io/ECE551proj/)
 
 # Resume
-## SUMMARY
-Graduate student working towards a Doctoral degree in Electrical Engineering. Seven years of experience in statistical signal processing, sensor arrays, and digital image processing.
 
 ## EDUCATION
-### **Doctor of Phylosophy in Electrical Engineering**
+### **Ph.D. in Electrical Engineering**
 **University of Massachusetts Dartmouth | Dartmouth, MA | 2025**  
 Advisor: John R. Buck
 
