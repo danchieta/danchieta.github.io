@@ -30,6 +30,10 @@ Advisor: John R. Buck
 **Universidade Federal do Pará | Belém, Brazil | 2018 | 7.7/10**
 
 ## EXPERIENCE
+### Systems Engineering Intern
+Texas Instruments | May. 2024 - Aug. 2024 | Dallas, TX
+  * Wrote digital signal processing routines for MEMS microphone arrays and ultrasound transducers.
+
 ### Graduate Research Assistant
 University of Massachusetts Dartmouth | Sep. 2018 - Present | Dartmouth, MA
   * Developed a median-based estimator of noise power that improved the performance of the Dominant Mode Rejection Beamformer.
