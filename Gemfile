@@ -1,3 +1,3 @@
-#gem "minima"
+gem "minima"
 
-gem "minima", github: "jekyll/minima", ref: "v2.5.2"
+#gem "minima", github: "jekyll/minima", ref: "v2.5.2"
