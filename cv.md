@@ -6,7 +6,7 @@ permalink: /cv/
 ## EDUCATION
 
 **Doctor of Philosophy**, Electrical Engineering  
-University of Massachusetts Dartmouth, Dartmouth, MA — 2025 (Expected)  
+University of Massachusetts Dartmouth, Dartmouth, MA — 2025
 Advisor: Dr. John R. Buck  
 
 **Master of Science**, Electrical Engineering  
