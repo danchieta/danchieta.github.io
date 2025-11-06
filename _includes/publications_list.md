@@ -7,7 +7,7 @@ Anchieta, David Campos, and John R. Buck. **"Improving the Robustness of the Dom
 
 ## Editor-reviewed Conference Papers
 
-Anchieta, David Campos, and John R. Buck. **"Robust Power Spectral Density Estimation via a Performance-Weighted Blend of Order Statistics,"** 055006. Sydney, Australia, 2023. [DOI](https://doi.org/10.1121/2.0001849).
+David Campos Anchieta, John R. Buck. **"Robust power spectral density estimation via a performance-weighted blend of order statistics."** *Proceedings of Meetings on Acoustics*. Sydney, Australia, 2023. 52 (1): 055006. [DOI](https://doi.org/10.1121/2.0001849).
 
 ## Conference Abstracts
 David C. Anchieta, John R. Buck. **"An adaptive blend of truncated order statistics filters for power spectral density estimation."** *The Journal of the Acoustical Society of America* 157, no. 4_Supplement (1 April 2025): A333–A334. [DOI](https://doi.org/10.1121/10.0038259)
@@ -31,6 +31,8 @@ Gendron, Paul J., David C. Anchieta, Tamunoala Charles-Ogan, and Graham Entwistl
 Gendron, Paul J., Tamunoala Charles-Ogan, David C. Anchieta, and Justin Conor. **"Inferences on Target Speed, Depth, and Range from a Continuous Wave Transmission."** *The Journal of the Acoustical Society of America* 139, no. 4 (April 2016): 2195--2195. [DOI](https://doi.org/10.1121/1.4950538).
 
 ## Other Conference Presentations
+
+Anchieta, David Campos, and John R. Buck. **"Robust Power Spectral Density Estimation with Linear Combinations of Order Statistics."** Presented at the 2023 Underwater Acoustic Signal Processing Workshop, Exeter, RI, October 13, 2023.
 
 Anchieta, David Campos, and John R. Buck. **"The Median Dominant Mode Rejection Beamformer Improves Robustness Against Array Element Perturbations."** Presented at the 2021 Underwater Acoustic Signal Processing Workshop, Exeter, RI, October 14, 2021.
 
