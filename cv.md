@@ -3,6 +3,26 @@ layout: page
 title: CV
 permalink: /cv/
 ---
+
+## EXPERIENCE
+
+**Postdoctoral Research Associate**  
+New Jersey Institute of Technology, Newark, NJ - February 2026 - Present
+
+**Postdoctoral Research Associate**  
+University of Massachusetts Dartmouth, Dartmouth, MA — December 2025 – February 2026
+
+**Systems Engineering Intern**  
+Texas Instruments, Dallas, TX — May 2024 – July 2024  
+
+**Graduate Research Assistant**  
+University of Massachusetts Dartmouth, Dartmouth, MA — September 2018 – August 2025  
+Advisor: Dr. John R. Buck  
+
+**Undergraduate Research Assistant**  
+University of Massachusetts Dartmouth, Dartmouth, MA — June 2015 – August 2015  
+Supervisor: Dr. Paul Gendron  
+
 ## EDUCATION
 
 **Doctor of Philosophy**, Electrical Engineering  
@@ -18,18 +38,4 @@ Advisor: Dr. John R. Buck
 **Bachelor of Science**, Computer Engineering  
 Universidade Federal do Pará, Belém, Brazil — 2018  
 GPA: 7.7/10  
-
-
-## EXPERIENCE
-
-**Systems Engineering Intern**  
-Texas Instruments, Dallas, TX — May 2024 – July 2024  
-
-**Graduate Research Assistant**  
-University of Massachusetts Dartmouth, Dartmouth, MA — September 2018 – Present  
-Advisor: Dr. John R. Buck  
-
-**Undergraduate Research Assistant**  
-University of Massachusetts Dartmouth, Dartmouth, MA — June 2015 – August 2015  
-Supervisor: Dr. Paul Gendron  
 

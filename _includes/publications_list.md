@@ -1,5 +1,5 @@
 ## Journal Papers
-Anchieta, David Campos, and John R. Buck. **"Power Spectral Density Estimation via Universal Truncated Order Statistics Filtering"**, 2025. [DOI](https://doi.org/10.48550/arXiv.2509.16359).
+Anchieta, David Campos, and John R. Buck. **“Power Spectral Density Estimation via Universal Truncated Order Statistics Filtering.”** *The Journal of the Acoustical Society of America* 159, no. 3 (2026): 1999–2008. [DOI](https://doi.org/10.1121/10.0042444).
 
 Anchieta, David Campos, and John R. Buck. **"Robust Power Spectral Density Estimation With a Truncated Linear Order Statistics Filter."** *IEEE Journal of Oceanic Engineering*, 2024, 1--6. [DOI](https://doi.org/10.1109/JOE.2024.3463700).
 
